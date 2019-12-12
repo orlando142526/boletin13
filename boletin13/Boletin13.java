@@ -27,7 +27,6 @@ public class Boletin13 {
         jug1.separador();
         System.out.println("Edad del jugador:"+jug1.getEdad());
         Seleccion sel=new Seleccion(5,"Prueba","Rara",25);
-        // falla sel.getDorsal();
         
     }
     
